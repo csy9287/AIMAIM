@@ -1,5 +1,5 @@
 # :panda_face: PANDA
-근거리 중고 거래 사이트 PANDA
+근거리 중고 거래 및 기부 경매 사이트 PANDA
 * 배포된 주소 : http://itwillbs2.cafe24.com/main/index
 
 ## 목차
