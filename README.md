@@ -35,6 +35,7 @@
 ![image](https://github.com/csy9287/AIMAIM/blob/master/AIM%20ERD.png?raw=true)
 
 ## 프로젝트 화면
+![image](https://user-images.githubusercontent.com/77379794/224929773-4cb5ca4b-825d-4a73-ac7b-d4d40fd640fb.PNG)
 
 ## 구현 목록
 * 회원
